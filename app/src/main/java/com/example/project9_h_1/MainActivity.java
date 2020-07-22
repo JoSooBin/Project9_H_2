@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //사진 띄우기
     private static class MyGraphicView extends View {
         public MyGraphicView(Context context) {
             super(context);
